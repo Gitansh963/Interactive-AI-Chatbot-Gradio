@@ -24,7 +24,7 @@ Replace "Copy-your-api-key-here" in the code with your actual OpenAI API key.
 Run the script to start the Gradio interface and interact with the chatbot.
 
 ```bash
-python your_script_name.py
+python Gpt_clone.py
 ```
 The interface allows users to input text, simulating a conversation with the AI chatbot. The chat history is maintained, providing a more context-aware conversation.
 
