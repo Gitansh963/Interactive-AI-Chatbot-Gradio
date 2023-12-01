@@ -10,7 +10,7 @@ OpenAI API key
 ##Installation
 #Clone the repository:
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/Gitansh963/Interactive-AI-Chatbot-Gradio.git
 cd your-repo-name
 ```
 #Install dependencies:
